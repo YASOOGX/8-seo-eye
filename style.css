@@ -278,6 +278,7 @@ header .logo {
   align-items: center;
   justify-content: flex-start;
   padding-right: 35px;
+  padding: 0px !important;
 }
 
 header .logo img {
