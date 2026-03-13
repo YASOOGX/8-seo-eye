@@ -252,7 +252,9 @@ input:focus {
     transform: rotate(-360deg);
   }
 }
-
+.row{
+  width: 100%;
+}
 /* end basic */
 /* start header  */
 
